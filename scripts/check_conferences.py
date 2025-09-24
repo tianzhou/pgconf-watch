@@ -156,8 +156,7 @@ def compare_conferences(old_data: List[Dict], new_data: List[Dict]) -> Dict:
 
 def create_issue_body(changes: Dict, all_conferences: List[Dict]) -> str:
     """Create GitHub issue body from changes."""
-    body = f"# PostgreSQL Conference Changes Detected\n\n"
-    body += f"**Detection Date:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n\n"
+    body = f"# PostgreSQL Conference Update\n\n"
 
     if changes['added']:
         body += "## 🆕 New Conferences Added\n\n"
@@ -183,47 +182,14 @@ def create_issue_body(changes: Dict, all_conferences: List[Dict]) -> str:
     body += "## 📋 All Current Conferences\n\n"
     body += f"*Total conferences tracked: {len(all_conferences)}*\n\n"
 
-    # Group conferences by type/status for better organization
-    active_conferences = []
-    call_for_papers = []
-    schedule_published = []
-    other_conferences = []
-
+    # List all conferences in original order without grouping
     for conf in all_conferences:
-        name_lower = conf['name'].lower()
-        details_str = ' '.join(conf.get('details', [])).lower()
-
-        if 'call for papers' in name_lower or 'call for papers' in details_str:
-            call_for_papers.append(conf)
-        elif 'schedule' in name_lower and ('published' in name_lower or 'online' in name_lower):
-            schedule_published.append(conf)
-        elif any(event in name_lower for event in ['pgconf', 'pgday', 'postgresql conference']):
-            active_conferences.append(conf)
-        else:
-            other_conferences.append(conf)
-
-    if call_for_papers:
-        body += "### 📢 Call for Papers Open\n"
-        for conf in call_for_papers[:10]:  # Limit to avoid too long issues
-            body += f"- **{conf['name']}**\n"
-        if len(call_for_papers) > 10:
-            body += f"- *... and {len(call_for_papers) - 10} more*\n"
-        body += "\n"
-
-    if schedule_published:
-        body += "### 📅 Schedule Published\n"
-        for conf in schedule_published[:10]:
-            body += f"- **{conf['name']}**\n"
-        if len(schedule_published) > 10:
-            body += f"- *... and {len(schedule_published) - 10} more*\n"
-        body += "\n"
-
-    if active_conferences:
-        body += "### 🎯 Active Conferences\n"
-        for conf in active_conferences[:15]:
-            body += f"- **{conf['name']}**\n"
-        if len(active_conferences) > 15:
-            body += f"- *... and {len(active_conferences) - 15} more*\n"
+        body += f"- **{conf['name']}**\n"
+        # Add key details if available
+        if conf.get('details') and len(conf['details']) > 0:
+            for detail in conf['details'][:2]:  # Show first 2 details
+                if detail and detail != "Read more...":
+                    body += f"  - {detail}\n"
         body += "\n"
 
     body += f"\n---\n*This issue was automatically created by the conference monitoring system.*"
@@ -290,7 +256,7 @@ def main():
         print(f"  - Modified: {len(changes['modified'])}")
 
         # Create GitHub issue
-        title = f"PostgreSQL Conference Changes - {datetime.now().strftime('%Y-%m-%d')}"
+        title = f"PostgreSQL Conference Update - {datetime.now().strftime('%Y-%m-%d')}"
         issue_body = create_issue_body(changes, current_conferences)
 
         if os.getenv('GITHUB_TOKEN'):
