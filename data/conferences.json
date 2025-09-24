@@ -1,7 +1,17 @@
 [
   {
+    "name": "Nordic PGDay 2026 Call for Papers",
+    "details": [],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "nordic_pgday_2026_call_for_papers"
+  },
+  {
     "name": "Posted on 2025-09-23 by Nordic PGDay",
-    "details": ["Community Conferences"],
+    "details": [
+      "Community Conferences"
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -9,7 +19,9 @@
   },
   {
     "name": "We are pleased to announce that the Call for Papers for Nordic PGDay 2026 is now open. The conference will …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -25,7 +37,9 @@
   },
   {
     "name": "Posted on 2025-09-06 by PGConf India",
-    "details": ["Community Conferences"],
+    "details": [
+      "Community Conferences"
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -33,7 +47,9 @@
   },
   {
     "name": "PGConf India 2026 11th – 13th March 2026 Sheraton Grand Hotel at Brigade Gateway, Bengaluru, India PGConf India is excited …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -52,7 +68,9 @@
   },
   {
     "name": "The programme for PGConf.EU 2025, taking place on 21–24 October in Riga, is now live! Discover the exciting lineup of …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -71,7 +89,9 @@
   },
   {
     "name": "PGConf NYC 2025 (September 29 - October 1, 2025, New York City) is packed with user stories and best practices …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -90,7 +110,9 @@
   },
   {
     "name": "The schedule for PGDay UK 2025 has now been published at https://pgday.uk/events/pgdayuk2025/schedule/ Join us on the 9th September 2025 at …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -106,7 +128,9 @@
   },
   {
     "name": "Posted on 2025-08-06 by Nordic PGDay",
-    "details": ["Community Conferences"],
+    "details": [
+      "Community Conferences"
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -114,7 +138,9 @@
   },
   {
     "name": "Nordic PGDay will once again return to Helsinki in March 24, 2026, for a day of PostgreSQL in the land …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -133,7 +159,9 @@
   },
   {
     "name": "Summertime is almost over — kick off the autumn conference season with PGDay Austria! Don’t miss the Database Celebrity Deathmatch, …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -149,7 +177,9 @@
   },
   {
     "name": "Posted on 2025-07-22 by PGDay Napoli",
-    "details": ["Community Conferences"],
+    "details": [
+      "Community Conferences"
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -157,7 +187,9 @@
   },
   {
     "name": "We're pleased to announce that we published the schedule of the PGDay Napoli taking place in Naples, Italy, on September …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -173,7 +205,9 @@
   },
   {
     "name": "Posted on 2025-06-25 by PgDay Lowlands",
-    "details": ["Community Conferences"],
+    "details": [
+      "Community Conferences"
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
@@ -181,7 +215,9 @@
   },
   {
     "name": "pgDay Lowlands 2025 is coming up soon, on September 12, 2025 at the Blijdorp Zoo in Rotterdam, Netherlands. You can …",
-    "details": ["Read more..."],
+    "details": [
+      "Read more..."
+    ],
     "parsed_date": null,
     "location": null,
     "status": null,
