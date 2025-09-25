@@ -1,5 +1,26 @@
 [
   {
+    "name": "PGConf.dev 2026 Call for Proposals is Open",
+    "details": [
+      "Posted on 2025-09-24 by Slonik Events Canada",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfdev_2026_call_for_proposals_is_open"
+  },
+  {
+    "name": "PGConf.dev 2026 (May 19-22, 2026, Vancouver, CA), aka PostgreSQL Development Conference 2026, is an event where users, developers, and community …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfdev_2026_may_19-22_2026_vancouver_ca_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and_community"
+  },
+  {
     "name": "Nordic PGDay 2026 Call for Papers",
     "details": [],
     "parsed_date": null,
@@ -216,27 +237,6 @@
   {
     "name": "pgDay Lowlands 2025 is coming up soon, on September 12, 2025 at the Blijdorp Zoo in Rotterdam, Netherlands. You can …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_lowlands_2025_is_coming_up_soon_on_september_12_2025_at_the_blijdorp_zoo_in_rotterdam_netherlands_you_can"
-  },
-  {
-    "name": "PGDay UK 2025: Registration now open!",
-    "details": [
-      "Posted on 2025-06-23 by PostgreSQL Europe",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_uk_2025_registration_now_open"
-  },
-  {
-    "name": "PGDay UK 2025 will be held in London, England, on Tuesday, September 9, 2025 at the Cavendish Conference Centre. It …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -245,6 +245,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgday_uk_2025_will_be_held_in_london_england_on_tuesday_september_9_2025_at_the_cavendish_conference_centre_it"
+    "id": "pgday_lowlands_2025_is_coming_up_soon_on_september_12_2025_at_the_blijdorp_zoo_in_rotterdam_netherlands_you_can"
   }
 ]
