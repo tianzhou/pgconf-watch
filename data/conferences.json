@@ -1,5 +1,33 @@
 [
   {
+    "name": "pgDay Paris 2026 is open for business!",
+    "details": [],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgday_paris_2026_is_open_for_business"
+  },
+  {
+    "name": "Posted on 2025-10-01 by pgDay Paris",
+    "details": [
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "posted_on_2025-10-01_by_pgday_paris"
+  },
+  {
+    "name": "We are pleased to announce that pgDay Paris 2026, the 10th annual edition of our PostgreSQL community conference, is now …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "we_are_pleased_to_announce_that_pgday_paris_2026_the_10th_annual_edition_of_our_postgresql_community_conference_is_now"
+  },
+  {
     "name": "PGConf.dev 2026 Call for Proposals is Open",
     "details": [
       "Posted on 2025-09-24 by Slonik Events Canada",
@@ -209,34 +237,6 @@
   {
     "name": "We're pleased to announce that we published the schedule of the PGDay Napoli taking place in Naples, Italy, on September …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "were_pleased_to_announce_that_we_published_the_schedule_of_the_pgday_napoli_taking_place_in_naples_italy_on_september"
-  },
-  {
-    "name": "pgDay Lowlands 2025 - Schedule published, registration open; come find us at the zoo",
-    "details": [],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_lowlands_2025_-_schedule_published_registration_open_come_find_us_at_the_zoo"
-  },
-  {
-    "name": "Posted on 2025-06-25 by PgDay Lowlands",
-    "details": [
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "posted_on_2025-06-25_by_pgday_lowlands"
-  },
-  {
-    "name": "pgDay Lowlands 2025 is coming up soon, on September 12, 2025 at the Blijdorp Zoo in Rotterdam, Netherlands. You can …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -245,6 +245,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgday_lowlands_2025_is_coming_up_soon_on_september_12_2025_at_the_blijdorp_zoo_in_rotterdam_netherlands_you_can"
+    "id": "were_pleased_to_announce_that_we_published_the_schedule_of_the_pgday_napoli_taking_place_in_naples_italy_on_september"
   }
 ]
