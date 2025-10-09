@@ -209,34 +209,6 @@
   {
     "name": "Summertime is almost over — kick off the autumn conference season with PGDay Austria! Don’t miss the Database Celebrity Deathmatch, …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "summertime_is_almost_over__kick_off_the_autumn_conference_season_with_pgday_austria_dont_miss_the_database_celebrity_deathmatch"
-  },
-  {
-    "name": "PGDay Napoli 2025, Schedule and Registration",
-    "details": [],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_napoli_2025_schedule_and_registration"
-  },
-  {
-    "name": "Posted on 2025-07-22 by PGDay Napoli",
-    "details": [
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "posted_on_2025-07-22_by_pgday_napoli"
-  },
-  {
-    "name": "We're pleased to announce that we published the schedule of the PGDay Napoli taking place in Naples, Italy, on September …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -245,6 +217,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "were_pleased_to_announce_that_we_published_the_schedule_of_the_pgday_napoli_taking_place_in_naples_italy_on_september"
+    "id": "summertime_is_almost_over__kick_off_the_autumn_conference_season_with_pgday_austria_dont_miss_the_database_celebrity_deathmatch"
   }
 ]
