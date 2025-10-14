@@ -188,27 +188,6 @@
   {
     "name": "Nordic PGDay will once again return to Helsinki in March 24, 2026, for a day of PostgreSQL in the land …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "nordic_pgday_will_once_again_return_to_helsinki_in_march_24_2026_for_a_day_of_postgresql_in_the_land"
-  },
-  {
-    "name": "PGDay Austria schedule is online & Don't miss the Database Deathmatch",
-    "details": [
-      "Posted on 2025-08-05 by PG Day Austria",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_austria_schedule_is_online__dont_miss_the_database_deathmatch"
-  },
-  {
-    "name": "Summertime is almost over — kick off the autumn conference season with PGDay Austria! Don’t miss the Database Celebrity Deathmatch, …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -217,6 +196,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "summertime_is_almost_over__kick_off_the_autumn_conference_season_with_pgday_austria_dont_miss_the_database_celebrity_deathmatch"
+    "id": "nordic_pgday_will_once_again_return_to_helsinki_in_march_24_2026_for_a_day_of_postgresql_in_the_land"
   }
 ]
