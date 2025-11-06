@@ -1,5 +1,36 @@
 [
   {
+    "name": "CERN PGDay 2026: Announcement and CfP",
+    "details": [
+      "Posted on 2025-11-06 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "cern_pgday_2026_announcement_and_cfp"
+  },
+  {
+    "name": "After a successful first edition in 2025, CERN PGDay returns in 2026 as a regular gathering for PostgreSQL users and …",
+    "details": [
+      "Read more...",
+      "Call for Proposals / Prague PostgreSQL Developer Day 2026 / January 27-28, 2026",
+      "Posted on 2025-10-14 by CSPUG (Czech and Slovak PostgreSQL Users Group)",
+      "Community Conferences",
+      "The call for proposals for Prague PostgreSQL Developer Day 2026 (P2D2 2026) is now open. To submit a proposal use …",
+      "Read more...",
+      "Prague PostgreSQL Developer Day 2026 / January 27-28",
+      "Posted on 2025-10-09 by CSPUG (Czech and Slovak PostgreSQL Users Group)",
+      "Community Conferences",
+      "Prague PostgreSQL Developer Day 2026 Prague PostgreSQL Developer Day 2026 (P2D2 2026) will be held on January 27-28 in Prague, …",
+      "Read more..."
+    ],
+    "parsed_date": "Prague PostgreSQL Developer Day 2026 Prague PostgreSQL Developer Day 2026 (P2D2 2026) will be held on January 27-28 in Prague, …",
+    "location": null,
+    "status": null,
+    "id": "after_a_successful_first_edition_in_2025_cern_pgday_returns_in_2026_as_a_regular_gathering_for_postgresql_users_and"
+  },
+  {
     "name": "pgDay Paris 2026 is open for business!",
     "details": [],
     "parsed_date": null,
@@ -160,34 +191,6 @@
   {
     "name": "The schedule for PGDay UK 2025 has now been published at https://pgday.uk/events/pgdayuk2025/schedule/ Join us on the 9th September 2025 at …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "the_schedule_for_pgday_uk_2025_has_now_been_published_at_httpspgdayukeventspgdayuk2025schedule_join_us_on_the_9th_september_2025_at"
-  },
-  {
-    "name": "Nordic PGDay 2026 is returning to Finland for a day of Postgres",
-    "details": [],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "nordic_pgday_2026_is_returning_to_finland_for_a_day_of_postgres"
-  },
-  {
-    "name": "Posted on 2025-08-06 by Nordic PGDay",
-    "details": [
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "posted_on_2025-08-06_by_nordic_pgday"
-  },
-  {
-    "name": "Nordic PGDay will once again return to Helsinki in March 24, 2026, for a day of PostgreSQL in the land …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -196,6 +199,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "nordic_pgday_will_once_again_return_to_helsinki_in_march_24_2026_for_a_day_of_postgresql_in_the_land"
+    "id": "the_schedule_for_pgday_uk_2025_has_now_been_published_at_httpspgdayukeventspgdayuk2025schedule_join_us_on_the_9th_september_2025_at"
   }
 ]
