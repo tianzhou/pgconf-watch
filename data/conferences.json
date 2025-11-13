@@ -1,5 +1,26 @@
 [
   {
+    "name": "PostgreSQL Conference Germany 2026",
+    "details": [
+      "Posted on 2025-11-12 by PostgreSQL User Group Germany",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "postgresql_conference_germany_2026"
+  },
+  {
+    "name": "PGConf.de 2026 is the next iteration of the PostgreSQL Conference Germany. It takes place in the \"Haus der Technik\" in …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfde_2026_is_the_next_iteration_of_the_postgresql_conference_germany_it_takes_place_in_the_haus_der_technik_in"
+  },
+  {
     "name": "CERN PGDay 2026: Announcement and CfP",
     "details": [
       "Posted on 2025-11-06 by Swiss PostgreSQL Users Group",
@@ -170,27 +191,6 @@
   {
     "name": "PGConf NYC 2025 (September 29 - October 1, 2025, New York City) is packed with user stories and best practices …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconf_nyc_2025_september_29_-_october_1_2025_new_york_city_is_packed_with_user_stories_and_best_practices"
-  },
-  {
-    "name": "PGDay UK 2025: Check out the schedule and register now!",
-    "details": [
-      "Posted on 2025-08-08 by PostgreSQL Europe",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_uk_2025_check_out_the_schedule_and_register_now"
-  },
-  {
-    "name": "The schedule for PGDay UK 2025 has now been published at https://pgday.uk/events/pgdayuk2025/schedule/ Join us on the 9th September 2025 at …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -199,6 +199,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "the_schedule_for_pgday_uk_2025_has_now_been_published_at_httpspgdayukeventspgdayuk2025schedule_join_us_on_the_9th_september_2025_at"
+    "id": "pgconf_nyc_2025_september_29_-_october_1_2025_new_york_city_is_packed_with_user_stories_and_best_practices"
   }
 ]
