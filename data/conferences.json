@@ -1,5 +1,26 @@
 [
   {
+    "name": "FOSDEM PGDay 2026 - CfP and registration open!",
+    "details": [
+      "Posted on 2025-11-27 by PostgreSQL Europe",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "fosdem_pgday_2026_-_cfp_and_registration_open"
+  },
+  {
+    "name": "The call for papers is now open for FOSDEM PGDay 2026. The CfP will run until December 15, 2025 at …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "the_call_for_papers_is_now_open_for_fosdem_pgday_2026_the_cfp_will_run_until_december_15_2025_at"
+  },
+  {
     "name": "PostgreSQL Conference Germany 2026",
     "details": [
       "Posted on 2025-11-12 by PostgreSQL User Group Germany",
@@ -170,27 +191,6 @@
   {
     "name": "The programme for PGConf.EU 2025, taking place on 21–24 October in Riga, is now live! Discover the exciting lineup of …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "the_programme_for_pgconfeu_2025_taking_place_on_2124_october_in_riga_is_now_live_discover_the_exciting_lineup_of"
-  },
-  {
-    "name": "PGConf NYC 2025 (9/29-10/1) - Schedule Announced!",
-    "details": [
-      "Posted on 2025-08-27 by United States PostgreSQL Association",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconf_nyc_2025_929-101_-_schedule_announced"
-  },
-  {
-    "name": "PGConf NYC 2025 (September 29 - October 1, 2025, New York City) is packed with user stories and best practices …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -199,6 +199,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgconf_nyc_2025_september_29_-_october_1_2025_new_york_city_is_packed_with_user_stories_and_best_practices"
+    "id": "the_programme_for_pgconfeu_2025_taking_place_on_2124_october_in_riga_is_now_live_discover_the_exciting_lineup_of"
   }
 ]
