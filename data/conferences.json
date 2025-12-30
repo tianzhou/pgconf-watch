@@ -1,5 +1,26 @@
 [
   {
+    "name": "CERN PGDay 2026: Schedule Published",
+    "details": [
+      "Posted on 2025-12-29 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "cern_pgday_2026_schedule_published"
+  },
+  {
+    "name": "We are pleased to announce that the schedule for CERN PGDay 2026 has been published. The conference will take place …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "we_are_pleased_to_announce_that_the_schedule_for_cern_pgday_2026_has_been_published_the_conference_will_take_place"
+  },
+  {
     "name": "PGDay UK 2026: Registration and calls for papers and sponsors now open!",
     "details": [
       "Posted on 2025-11-27 by PostgreSQL Europe",
@@ -163,34 +184,6 @@
   {
     "name": "We are pleased to announce that the Call for Papers for Nordic PGDay 2026 is now open. The conference will …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "we_are_pleased_to_announce_that_the_call_for_papers_for_nordic_pgday_2026_is_now_open_the_conference_will"
-  },
-  {
-    "name": "PGConf India 2026: Call for Papers",
-    "details": [],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconf_india_2026_call_for_papers"
-  },
-  {
-    "name": "Posted on 2025-09-06 by PGConf India",
-    "details": [
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "posted_on_2025-09-06_by_pgconf_india"
-  },
-  {
-    "name": "PGConf India 2026 11th – 13th March 2026 Sheraton Grand Hotel at Brigade Gateway, Bengaluru, India PGConf India is excited …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -199,6 +192,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgconf_india_2026_11th__13th_march_2026_sheraton_grand_hotel_at_brigade_gateway_bengaluru_india_pgconf_india_is_excited"
+    "id": "we_are_pleased_to_announce_that_the_call_for_papers_for_nordic_pgday_2026_is_now_open_the_conference_will"
   }
 ]
