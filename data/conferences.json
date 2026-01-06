@@ -1,5 +1,33 @@
 [
   {
+    "name": "PGConf India 2026: Talks, trainings published and early bird registration closes soon",
+    "details": [],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconf_india_2026_talks_trainings_published_and_early_bird_registration_closes_soon"
+  },
+  {
+    "name": "Posted on 2026-01-05 by PGConf India",
+    "details": [
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "posted_on_2026-01-05_by_pgconf_india"
+  },
+  {
+    "name": "Hello, We're pleased to announce that the selected talks and trainings for PGConf India 2026 are now live on the …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "hello_were_pleased_to_announce_that_the_selected_talks_and_trainings_for_pgconf_india_2026_are_now_live_on_the"
+  },
+  {
     "name": "CERN PGDay 2026: Schedule Published",
     "details": [
       "Posted on 2025-12-29 by Swiss PostgreSQL Users Group",
@@ -156,34 +184,6 @@
   {
     "name": "PGConf.dev 2026 (May 19-22, 2026, Vancouver, CA), aka PostgreSQL Development Conference 2026, is an event where users, developers, and community …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfdev_2026_may_19-22_2026_vancouver_ca_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and_community"
-  },
-  {
-    "name": "Nordic PGDay 2026 Call for Papers",
-    "details": [],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "nordic_pgday_2026_call_for_papers"
-  },
-  {
-    "name": "Posted on 2025-09-23 by Nordic PGDay",
-    "details": [
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "posted_on_2025-09-23_by_nordic_pgday"
-  },
-  {
-    "name": "We are pleased to announce that the Call for Papers for Nordic PGDay 2026 is now open. The conference will …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -192,6 +192,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "we_are_pleased_to_announce_that_the_call_for_papers_for_nordic_pgday_2026_is_now_open_the_conference_will"
+    "id": "pgconfdev_2026_may_19-22_2026_vancouver_ca_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and_community"
   }
 ]
