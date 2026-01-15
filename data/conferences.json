@@ -1,5 +1,26 @@
 [
   {
+    "name": "PGConf.BE 2026: Call for Papers & Sponsors",
+    "details": [
+      "Posted on 2026-01-15 by UCLL",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfbe_2026_call_for_papers__sponsors"
+  },
+  {
+    "name": "Announcing the Belgian PostgreSQL Conference PGConf.be 2026 is the sixth Belgian PostgreSQL conference in Haasrode, Leuven. The conference will take …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "announcing_the_belgian_postgresql_conference_pgconfbe_2026_is_the_sixth_belgian_postgresql_conference_in_haasrode_leuven_the_conference_will_take"
+  },
+  {
     "name": "PGConf India 2026: Talks, trainings published and early bird registration closes soon",
     "details": [],
     "parsed_date": null,
@@ -163,27 +184,6 @@
   {
     "name": "We are pleased to announce that pgDay Paris 2026, the 10th annual edition of our PostgreSQL community conference, is now …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "we_are_pleased_to_announce_that_pgday_paris_2026_the_10th_annual_edition_of_our_postgresql_community_conference_is_now"
-  },
-  {
-    "name": "PGConf.dev 2026 Call for Proposals is Open",
-    "details": [
-      "Posted on 2025-09-24 by Slonik Events Canada",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfdev_2026_call_for_proposals_is_open"
-  },
-  {
-    "name": "PGConf.dev 2026 (May 19-22, 2026, Vancouver, CA), aka PostgreSQL Development Conference 2026, is an event where users, developers, and community …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -192,6 +192,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgconfdev_2026_may_19-22_2026_vancouver_ca_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and_community"
+    "id": "we_are_pleased_to_announce_that_pgday_paris_2026_the_10th_annual_edition_of_our_postgresql_community_conference_is_now"
   }
 ]
