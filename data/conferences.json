@@ -1,5 +1,26 @@
 [
   {
+    "name": "CERN PGDay 2026: Register now",
+    "details": [
+      "Posted on 2026-02-02 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "cern_pgday_2026_register_now"
+  },
+  {
+    "name": "Next week on Friday, February 6 2026 the CERN PGDay 2026, will take place at CERN, the European Organization for …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "next_week_on_friday_february_6_2026_the_cern_pgday_2026_will_take_place_at_cern_the_european_organization_for"
+  },
+  {
     "name": "Nordic PGDay 2026 - Schedule is posted!",
     "details": [],
     "parsed_date": null,
@@ -202,11 +223,6 @@
   {
     "name": "After a successful first edition in 2025, CERN PGDay returns in 2026 as a regular gathering for PostgreSQL users and …",
     "details": [
-      "Read more...",
-      "Call for Proposals / Prague PostgreSQL Developer Day 2026 / January 27-28, 2026",
-      "Posted on 2025-10-14 by CSPUG (Czech and Slovak PostgreSQL Users Group)",
-      "Community Conferences",
-      "The call for proposals for Prague PostgreSQL Developer Day 2026 (P2D2 2026) is now open. To submit a proposal use …",
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
