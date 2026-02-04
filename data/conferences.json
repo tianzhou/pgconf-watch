@@ -202,27 +202,6 @@
   {
     "name": "PGConf.de 2026 is the next iteration of the PostgreSQL Conference Germany. It takes place in the \"Haus der Technik\" in …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfde_2026_is_the_next_iteration_of_the_postgresql_conference_germany_it_takes_place_in_the_haus_der_technik_in"
-  },
-  {
-    "name": "CERN PGDay 2026: Announcement and CfP",
-    "details": [
-      "Posted on 2025-11-06 by Swiss PostgreSQL Users Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "cern_pgday_2026_announcement_and_cfp"
-  },
-  {
-    "name": "After a successful first edition in 2025, CERN PGDay returns in 2026 as a regular gathering for PostgreSQL users and …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -231,6 +210,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "after_a_successful_first_edition_in_2025_cern_pgday_returns_in_2026_as_a_regular_gathering_for_postgresql_users_and"
+    "id": "pgconfde_2026_is_the_next_iteration_of_the_postgresql_conference_germany_it_takes_place_in_the_haus_der_technik_in"
   }
 ]
