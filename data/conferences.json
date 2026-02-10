@@ -1,5 +1,31 @@
 [
   {
+    "name": "PGDay Bangkok 2026 at FOSSASIA Summit – Schedule Now Published",
+    "details": [
+      "Posted on 2026-02-10 by FOSSASIA",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgday_bangkok_2026_at_fossasia_summit__schedule_now_published"
+  },
+  {
+    "name": "The schedule for FOSSASIA PGDay 2026 is now published. The event will take place on March 10, 2026, at True …",
+    "details": [
+      "Read more...",
+      "In Person Community-Led PostgreSQL Training March 5th, at SCaLE 23x in Pasadena, California",
+      "Posted on 2026-02-03 by United States PostgreSQL Association",
+      "Community Conferences",
+      "PostgreSQL community members Elizabeth Christensen, Devrim Gunduz, and Ryan Booz are proud to announce that they will be leading a …",
+      "Read more..."
+    ],
+    "parsed_date": "In Person Community-Led PostgreSQL Training March 5th, at SCaLE 23x in Pasadena, California",
+    "location": null,
+    "status": null,
+    "id": "the_schedule_for_fossasia_pgday_2026_is_now_published_the_event_will_take_place_on_march_10_2026_at_true"
+  },
+  {
     "name": "CERN PGDay 2026: Register now",
     "details": [
       "Posted on 2026-02-02 by Swiss PostgreSQL Users Group",
@@ -181,27 +207,6 @@
   {
     "name": "The call for papers is now open for FOSDEM PGDay 2026. The CfP will run until December 15, 2025 at …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "the_call_for_papers_is_now_open_for_fosdem_pgday_2026_the_cfp_will_run_until_december_15_2025_at"
-  },
-  {
-    "name": "PostgreSQL Conference Germany 2026",
-    "details": [
-      "Posted on 2025-11-12 by PostgreSQL User Group Germany",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "postgresql_conference_germany_2026"
-  },
-  {
-    "name": "PGConf.de 2026 is the next iteration of the PostgreSQL Conference Germany. It takes place in the \"Haus der Technik\" in …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -210,6 +215,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgconfde_2026_is_the_next_iteration_of_the_postgresql_conference_germany_it_takes_place_in_the_haus_der_technik_in"
+    "id": "the_call_for_papers_is_now_open_for_fosdem_pgday_2026_the_cfp_will_run_until_december_15_2025_at"
   }
 ]
