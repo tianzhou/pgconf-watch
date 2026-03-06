@@ -1,5 +1,26 @@
 [
   {
+    "name": "Swiss PGDay 2026: Announcement and CfS",
+    "details": [
+      "Posted on 2026-03-06 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "swiss_pgday_2026_announcement_and_cfs"
+  },
+  {
+    "name": "We are pleased to announce Swiss PGDay 2026, which will take place on Thursday 25 June and Friday 26 June …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "we_are_pleased_to_announce_swiss_pgday_2026_which_will_take_place_on_thursday_25_june_and_friday_26_june"
+  },
+  {
     "name": "PGDay Bangkok 2026 at FOSSASIA Summit – Schedule Now Published",
     "details": [
       "Posted on 2026-02-10 by FOSSASIA",
@@ -186,27 +207,6 @@
   {
     "name": "PGDay UK 2026 will take place in London on September 8th at the Cavendish Conference Centre, London, UK. Our Call …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_uk_2026_will_take_place_in_london_on_september_8th_at_the_cavendish_conference_centre_london_uk_our_call"
-  },
-  {
-    "name": "FOSDEM PGDay 2026 - CfP and registration open!",
-    "details": [
-      "Posted on 2025-11-27 by PostgreSQL Europe",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "fosdem_pgday_2026_-_cfp_and_registration_open"
-  },
-  {
-    "name": "The call for papers is now open for FOSDEM PGDay 2026. The CfP will run until December 15, 2025 at …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -215,6 +215,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "the_call_for_papers_is_now_open_for_fosdem_pgday_2026_the_cfp_will_run_until_december_15_2025_at"
+    "id": "pgday_uk_2026_will_take_place_in_london_on_september_8th_at_the_cavendish_conference_centre_london_uk_our_call"
   }
 ]
