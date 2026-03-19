@@ -1,5 +1,47 @@
 [
   {
+    "name": "PGConf.dev 2026 Schedule Announced!",
+    "details": [
+      "Posted on 2026-03-19 by Slonik Events Canada",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfdev_2026_schedule_announced"
+  },
+  {
+    "name": "PGConf.dev 2026 (May 19-22, 2026, Vancouver, BC, Canada), aka PostgreSQL Development Conference 2026, is an event where users, developers, and …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfdev_2026_may_19-22_2026_vancouver_bc_canada_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and"
+  },
+  {
+    "name": "Join Us at PGDay Armenia 2026 in Yerevan on April 30, 2026",
+    "details": [
+      "Posted on 2026-03-18 by Armenia Postgres User Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "join_us_at_pgday_armenia_2026_in_yerevan_on_april_30_2026"
+  },
+  {
+    "name": "Greetings PostgreSQL Community, I’m thrilled to announce that PGDay Armenia 2026 will take place in Yerevan on April 30, 2026. …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "greetings_postgresql_community_im_thrilled_to_announce_that_pgday_armenia_2026_will_take_place_in_yerevan_on_april_30_2026"
+  },
+  {
     "name": "Swiss PGDay 2026: Announcement and CfS",
     "details": [
       "Posted on 2026-03-06 by Swiss PostgreSQL Users Group",
@@ -165,48 +207,6 @@
   {
     "name": "Hello, We're pleased to announce that the selected talks and trainings for PGConf India 2026 are now live on the …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "hello_were_pleased_to_announce_that_the_selected_talks_and_trainings_for_pgconf_india_2026_are_now_live_on_the"
-  },
-  {
-    "name": "CERN PGDay 2026: Schedule Published",
-    "details": [
-      "Posted on 2025-12-29 by Swiss PostgreSQL Users Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "cern_pgday_2026_schedule_published"
-  },
-  {
-    "name": "We are pleased to announce that the schedule for CERN PGDay 2026 has been published. The conference will take place …",
-    "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "we_are_pleased_to_announce_that_the_schedule_for_cern_pgday_2026_has_been_published_the_conference_will_take_place"
-  },
-  {
-    "name": "PGDay UK 2026: Registration and calls for papers and sponsors now open!",
-    "details": [
-      "Posted on 2025-11-27 by PostgreSQL Europe",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_uk_2026_registration_and_calls_for_papers_and_sponsors_now_open"
-  },
-  {
-    "name": "PGDay UK 2026 will take place in London on September 8th at the Cavendish Conference Centre, London, UK. Our Call …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -215,6 +215,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgday_uk_2026_will_take_place_in_london_on_september_8th_at_the_cavendish_conference_centre_london_uk_our_call"
+    "id": "hello_were_pleased_to_announce_that_the_selected_talks_and_trainings_for_pgconf_india_2026_are_now_live_on_the"
   }
 ]
