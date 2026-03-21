@@ -1,5 +1,15 @@
 [
   {
+    "name": "After two wonderful community-led editions in 2024 and 2025, Hyderabad PGDays returns, continuing its journey as a regular gathering place …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "after_two_wonderful_community-led_editions_in_2024_and_2025_hyderabad_pgdays_returns_continuing_its_journey_as_a_regular_gathering_place"
+  },
+  {
     "name": "PGConf.dev 2026 Schedule Announced!",
     "details": [
       "Posted on 2026-03-19 by Slonik Events Canada",
@@ -179,34 +189,6 @@
   {
     "name": "Announcing the Belgian PostgreSQL Conference PGConf.be 2026 is the sixth Belgian PostgreSQL conference in Haasrode, Leuven. The conference will take …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "announcing_the_belgian_postgresql_conference_pgconfbe_2026_is_the_sixth_belgian_postgresql_conference_in_haasrode_leuven_the_conference_will_take"
-  },
-  {
-    "name": "PGConf India 2026: Talks, trainings published and early bird registration closes soon",
-    "details": [],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconf_india_2026_talks_trainings_published_and_early_bird_registration_closes_soon"
-  },
-  {
-    "name": "Posted on 2026-01-05 by PGConf India",
-    "details": [
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "posted_on_2026-01-05_by_pgconf_india"
-  },
-  {
-    "name": "Hello, We're pleased to announce that the selected talks and trainings for PGConf India 2026 are now live on the …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -215,6 +197,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "hello_were_pleased_to_announce_that_the_selected_talks_and_trainings_for_pgconf_india_2026_are_now_live_on_the"
+    "id": "announcing_the_belgian_postgresql_conference_pgconfbe_2026_is_the_sixth_belgian_postgresql_conference_in_haasrode_leuven_the_conference_will_take"
   }
 ]
