@@ -1,5 +1,26 @@
 [
   {
+    "name": "PGConf.EU 2026 Announced – Call for Community Day Event Proposals Now Open",
+    "details": [
+      "Posted on 2026-04-19 by PostgreSQL Europe",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfeu_2026_announced__call_for_community_day_event_proposals_now_open"
+  },
+  {
+    "name": "We are pleased to announce that PostgreSQL Conference Europe 2026 will take place in València, Spain, from October 20–23, 2026. …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "we_are_pleased_to_announce_that_postgresql_conference_europe_2026_will_take_place_in_valència_spain_from_october_2023_2026"
+  },
+  {
     "name": "PGDay Armenia 2026 Schedule & Registration!",
     "details": [
       "Posted on 2026-04-18 by Armenia Postgres User Group",
@@ -157,27 +178,6 @@
       "Posted on 2026-02-03 by United States PostgreSQL Association",
       "Community Conferences",
       "PostgreSQL community members Elizabeth Christensen, Devrim Gunduz, and Ryan Booz are proud to announce that they will be leading a …",
-      "Read more..."
-    ],
-    "parsed_date": "In Person Community-Led PostgreSQL Training March 5th, at SCaLE 23x in Pasadena, California",
-    "location": null,
-    "status": null,
-    "id": "the_schedule_for_fossasia_pgday_2026_is_now_published_the_event_will_take_place_on_march_10_2026_at_true"
-  },
-  {
-    "name": "CERN PGDay 2026: Register now",
-    "details": [
-      "Posted on 2026-02-02 by Swiss PostgreSQL Users Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "cern_pgday_2026_register_now"
-  },
-  {
-    "name": "Next week on Friday, February 6 2026 the CERN PGDay 2026, will take place at CERN, the European Organization for …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -186,6 +186,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "next_week_on_friday_february_6_2026_the_cern_pgday_2026_will_take_place_at_cern_the_european_organization_for"
+    "id": "the_schedule_for_fossasia_pgday_2026_is_now_published_the_event_will_take_place_on_march_10_2026_at_true"
   }
 ]
