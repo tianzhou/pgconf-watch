@@ -1,5 +1,68 @@
 [
   {
+    "name": "PGDay Israel 2026 - Call for Papers is Now Open",
+    "details": [
+      "Posted on 2026-05-21 by Israel PostgreSQL Community",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgday_israel_2026_-_call_for_papers_is_now_open"
+  },
+  {
+    "name": "Dear PostgreSQL Community, We are pleased to announce that the Call for Papers for PGDay Israel 2026 is now open. …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "dear_postgresql_community_we_are_pleased_to_announce_that_the_call_for_papers_for_pgday_israel_2026_is_now_open"
+  },
+  {
+    "name": "Calls for Presentations for PGConf.EU 2026 are Open",
+    "details": [
+      "Posted on 2026-05-21 by PostgreSQL Europe",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "calls_for_presentations_for_pgconfeu_2026_are_open"
+  },
+  {
+    "name": "The Call for Papers for the PGConf.EU 2026 main conference track, as well as the Calls for Presentations for sessions …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "the_call_for_papers_for_the_pgconfeu_2026_main_conference_track_as_well_as_the_calls_for_presentations_for_sessions"
+  },
+  {
+    "name": "Swiss PGDay 2026: Schedule Published + New BoF Format",
+    "details": [
+      "Posted on 2026-05-21 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "swiss_pgday_2026_schedule_published__new_bof_format"
+  },
+  {
+    "name": "The schedule is now online. New this year: Birds of a Feather (BoF). Registration is moving quickly. Swiss PGDay 2026 …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "the_schedule_is_now_online_new_this_year_birds_of_a_feather_bof_registration_is_moving_quickly_swiss_pgday_2026"
+  },
+  {
     "name": "PGConf.EU 2026 Announced – Call for Community Day Event Proposals Now Open",
     "details": [
       "Posted on 2026-04-19 by PostgreSQL Europe",
@@ -131,53 +194,6 @@
   {
     "name": "Greetings PostgreSQL Community, I’m thrilled to announce that PGDay Armenia 2026 will take place in Yerevan on April 30, 2026. …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "greetings_postgresql_community_im_thrilled_to_announce_that_pgday_armenia_2026_will_take_place_in_yerevan_on_april_30_2026"
-  },
-  {
-    "name": "Swiss PGDay 2026: Announcement and CfS",
-    "details": [
-      "Posted on 2026-03-06 by Swiss PostgreSQL Users Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "swiss_pgday_2026_announcement_and_cfs"
-  },
-  {
-    "name": "We are pleased to announce Swiss PGDay 2026, which will take place on Thursday 25 June and Friday 26 June …",
-    "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "we_are_pleased_to_announce_swiss_pgday_2026_which_will_take_place_on_thursday_25_june_and_friday_26_june"
-  },
-  {
-    "name": "PGDay Bangkok 2026 at FOSSASIA Summit – Schedule Now Published",
-    "details": [
-      "Posted on 2026-02-10 by FOSSASIA",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_bangkok_2026_at_fossasia_summit__schedule_now_published"
-  },
-  {
-    "name": "The schedule for FOSSASIA PGDay 2026 is now published. The event will take place on March 10, 2026, at True …",
-    "details": [
-      "Read more...",
-      "In Person Community-Led PostgreSQL Training March 5th, at SCaLE 23x in Pasadena, California",
-      "Posted on 2026-02-03 by United States PostgreSQL Association",
-      "Community Conferences",
-      "PostgreSQL community members Elizabeth Christensen, Devrim Gunduz, and Ryan Booz are proud to announce that they will be leading a …",
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -186,6 +202,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "the_schedule_for_fossasia_pgday_2026_is_now_published_the_event_will_take_place_on_march_10_2026_at_true"
+    "id": "greetings_postgresql_community_im_thrilled_to_announce_that_pgday_armenia_2026_will_take_place_in_yerevan_on_april_30_2026"
   }
 ]
