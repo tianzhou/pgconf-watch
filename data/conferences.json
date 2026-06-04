@@ -1,5 +1,33 @@
 [
   {
+    "name": "PGConf.PL 2026 Call for Papers Open",
+    "details": [],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfpl_2026_call_for_papers_open"
+  },
+  {
+    "name": "Posted on 2026-06-04 by PGConf.PL",
+    "details": [
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "posted_on_2026-06-04_by_pgconfpl"
+  },
+  {
+    "name": "The PostgreSQL Conference Poland - PGConf.PL 2026 - Call for Papers is now officially open! We invite PostgreSQL practitioners, developers, …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "the_postgresql_conference_poland_-_pgconfpl_2026_-_call_for_papers_is_now_officially_open_we_invite_postgresql_practitioners_developers"
+  },
+  {
     "name": "PGDay Israel 2026 - Call for Papers is Now Open",
     "details": [
       "Posted on 2026-05-21 by Israel PostgreSQL Community",
@@ -173,27 +201,6 @@
   {
     "name": "PGConf.dev 2026 (May 19-22, 2026, Vancouver, BC, Canada), aka PostgreSQL Development Conference 2026, is an event where users, developers, and …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfdev_2026_may_19-22_2026_vancouver_bc_canada_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and"
-  },
-  {
-    "name": "Join Us at PGDay Armenia 2026 in Yerevan on April 30, 2026",
-    "details": [
-      "Posted on 2026-03-18 by Armenia Postgres User Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "join_us_at_pgday_armenia_2026_in_yerevan_on_april_30_2026"
-  },
-  {
-    "name": "Greetings PostgreSQL Community, I’m thrilled to announce that PGDay Armenia 2026 will take place in Yerevan on April 30, 2026. …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -202,6 +209,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "greetings_postgresql_community_im_thrilled_to_announce_that_pgday_armenia_2026_will_take_place_in_yerevan_on_april_30_2026"
+    "id": "pgconfdev_2026_may_19-22_2026_vancouver_bc_canada_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and"
   }
 ]
