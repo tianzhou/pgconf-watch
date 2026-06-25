@@ -28,25 +28,25 @@
     "id": "the_postgresql_conference_poland_-_pgconfpl_2026_-_call_for_papers_is_now_officially_open_we_invite_postgresql_practitioners_developers"
   },
   {
-    "name": "PGDay Israel 2026 - Call for Papers is Now Open",
+    "name": "Swiss PGDay 2026: Schedule Published + New BoF Format",
     "details": [
-      "Posted on 2026-05-21 by Israel PostgreSQL Community",
+      "Posted on 2026-05-21 by Swiss PostgreSQL Users Group",
       "Community Conferences"
     ],
     "parsed_date": null,
     "location": null,
     "status": null,
-    "id": "pgday_israel_2026_-_call_for_papers_is_now_open"
+    "id": "swiss_pgday_2026_schedule_published__new_bof_format"
   },
   {
-    "name": "Dear PostgreSQL Community, We are pleased to announce that the Call for Papers for PGDay Israel 2026 is now open. …",
+    "name": "The schedule is now online. New this year: Birds of a Feather (BoF). Registration is moving quickly. Swiss PGDay 2026 …",
     "details": [
       "Read more..."
     ],
     "parsed_date": null,
     "location": null,
     "status": null,
-    "id": "dear_postgresql_community_we_are_pleased_to_announce_that_the_call_for_papers_for_pgday_israel_2026_is_now_open"
+    "id": "the_schedule_is_now_online_new_this_year_birds_of_a_feather_bof_registration_is_moving_quickly_swiss_pgday_2026"
   },
   {
     "name": "Calls for Presentations for PGConf.EU 2026 are Open",
@@ -70,25 +70,25 @@
     "id": "the_call_for_papers_for_the_pgconfeu_2026_main_conference_track_as_well_as_the_calls_for_presentations_for_sessions"
   },
   {
-    "name": "Swiss PGDay 2026: Schedule Published + New BoF Format",
+    "name": "PGDay Israel 2026 - Call for Papers is Now Open",
     "details": [
-      "Posted on 2026-05-21 by Swiss PostgreSQL Users Group",
+      "Posted on 2026-05-21 by Israel PostgreSQL Community",
       "Community Conferences"
     ],
     "parsed_date": null,
     "location": null,
     "status": null,
-    "id": "swiss_pgday_2026_schedule_published__new_bof_format"
+    "id": "pgday_israel_2026_-_call_for_papers_is_now_open"
   },
   {
-    "name": "The schedule is now online. New this year: Birds of a Feather (BoF). Registration is moving quickly. Swiss PGDay 2026 …",
+    "name": "Dear PostgreSQL Community, We are pleased to announce that the Call for Papers for PGDay Israel 2026 is now open. …",
     "details": [
       "Read more..."
     ],
     "parsed_date": null,
     "location": null,
     "status": null,
-    "id": "the_schedule_is_now_online_new_this_year_birds_of_a_feather_bof_registration_is_moving_quickly_swiss_pgday_2026"
+    "id": "dear_postgresql_community_we_are_pleased_to_announce_that_the_call_for_papers_for_pgday_israel_2026_is_now_open"
   },
   {
     "name": "PGConf.EU 2026 Announced – Call for Community Day Event Proposals Now Open",
@@ -133,27 +133,6 @@
     "id": "hey_everyone_the_pgday_armenia_2026_schedule_is_now_live_and_early_bird_tickets_are_officially_on_sale_join_us"
   },
   {
-    "name": "Swiss PGDay 2026: Open for registration",
-    "details": [
-      "Posted on 2026-04-17 by Swiss PostgreSQL Users Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "swiss_pgday_2026_open_for_registration"
-  },
-  {
-    "name": "Swiss PGDay 2026 25–26 June 2026 · Rapperswil, Switzerland The Swiss PostgreSQL Conference. OST Eastern Switzerland University of Applied Sciences …",
-    "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "swiss_pgday_2026_2526_june_2026__rapperswil_switzerland_the_swiss_postgresql_conference_ost_eastern_switzerland_university_of_applied_sciences"
-  },
-  {
     "name": "PGConf.BE : Preliminary schedule, registrations open and speakers online",
     "details": [
       "Posted on 2026-04-17 by UCLL",
@@ -167,6 +146,27 @@
   {
     "name": "PGConf.BE 2026 will be held in Haasrode, Leuven, about 25km from Brussels. The conference will take place on May 5th, …",
     "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfbe_2026_will_be_held_in_haasrode_leuven_about_25km_from_brussels_the_conference_will_take_place_on_may_5th"
+  },
+  {
+    "name": "Swiss PGDay 2026: Open for registration",
+    "details": [
+      "Posted on 2026-04-17 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "swiss_pgday_2026_open_for_registration"
+  },
+  {
+    "name": "Swiss PGDay 2026 25–26 June 2026 · Rapperswil, Switzerland The Swiss PostgreSQL Conference. OST Eastern Switzerland University of Applied Sciences …",
+    "details": [
       "Read more...",
       "Hyderabad Postgres Days 2026: Announcement and CFP/CFS",
       "Posted on 2026-03-21 by Hyderabad PostgreSQL User Group",
@@ -175,7 +175,7 @@
     "parsed_date": null,
     "location": null,
     "status": null,
-    "id": "pgconfbe_2026_will_be_held_in_haasrode_leuven_about_25km_from_brussels_the_conference_will_take_place_on_may_5th"
+    "id": "swiss_pgday_2026_2526_june_2026__rapperswil_switzerland_the_swiss_postgresql_conference_ost_eastern_switzerland_university_of_applied_sciences"
   },
   {
     "name": "After two wonderful community-led editions in 2024 and 2025, Hyderabad PGDays returns, continuing its journey as a regular gathering place …",
