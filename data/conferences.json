@@ -1,5 +1,26 @@
 [
   {
+    "name": "PGDay.UK 2026: Schedule up, registration open",
+    "details": [
+      "Posted on 2026-06-26 by PostgreSQL Europe",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgdayuk_2026_schedule_up_registration_open"
+  },
+  {
+    "name": "PGDay UK is back on September 8 2026, held at the Cavendish Conference Centre in London, UK. Our schedule is …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgday_uk_is_back_on_september_8_2026_held_at_the_cavendish_conference_centre_in_london_uk_our_schedule_is"
+  },
+  {
     "name": "PGConf.PL 2026 Call for Papers Open",
     "details": [],
     "parsed_date": null,
@@ -180,27 +201,6 @@
   {
     "name": "After two wonderful community-led editions in 2024 and 2025, Hyderabad PGDays returns, continuing its journey as a regular gathering place …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "after_two_wonderful_community-led_editions_in_2024_and_2025_hyderabad_pgdays_returns_continuing_its_journey_as_a_regular_gathering_place"
-  },
-  {
-    "name": "PGConf.dev 2026 Schedule Announced!",
-    "details": [
-      "Posted on 2026-03-19 by Slonik Events Canada",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfdev_2026_schedule_announced"
-  },
-  {
-    "name": "PGConf.dev 2026 (May 19-22, 2026, Vancouver, BC, Canada), aka PostgreSQL Development Conference 2026, is an event where users, developers, and …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -209,6 +209,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgconfdev_2026_may_19-22_2026_vancouver_bc_canada_aka_postgresql_development_conference_2026_is_an_event_where_users_developers_and"
+    "id": "after_two_wonderful_community-led_editions_in_2024_and_2025_hyderabad_pgdays_returns_continuing_its_journey_as_a_regular_gathering_place"
   }
 ]
