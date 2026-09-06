@@ -1,5 +1,38 @@
 [
   {
+    "name": "PGConf India 2027 - Dates Announced and CFP Open",
+    "details": [],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconf_india_2027_-_dates_announced_and_cfp_open"
+  },
+  {
+    "name": "Posted on 2026-09-05 by PGConf India",
+    "details": [
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "posted_on_2026-09-05_by_pgconf_india"
+  },
+  {
+    "name": "Hey there, Mark your calendars: PGConf India 2027 is set for March 2–5, 2027 at the Sheraton Grand Hotel at …",
+    "details": [
+      "Read more...",
+      "Postgres Summit US 2026 Schedule is now live!",
+      "Posted on 2026-08-07 by United States PostgreSQL Association",
+      "Community Conferences",
+      "Hi all, The talk schedule for Postgres Summit US 2026 is now published. Browse it here: Talk Schedule The summit …",
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": "Hi all, The talk schedule for Postgres Summit US 2026 is now published. Browse it here: Talk Schedule The summit …",
+    "id": "hey_there_mark_your_calendars_pgconf_india_2027_is_set_for_march_25_2027_at_the_sheraton_grand_hotel_at"
+  },
+  {
     "name": "PGDay.UK 2026: Schedule up, registration open",
     "details": [
       "Posted on 2026-06-26 by PostgreSQL Europe",
@@ -167,27 +200,6 @@
   {
     "name": "PGConf.BE 2026 will be held in Haasrode, Leuven, about 25km from Brussels. The conference will take place on May 5th, …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfbe_2026_will_be_held_in_haasrode_leuven_about_25km_from_brussels_the_conference_will_take_place_on_may_5th"
-  },
-  {
-    "name": "Swiss PGDay 2026: Open for registration",
-    "details": [
-      "Posted on 2026-04-17 by Swiss PostgreSQL Users Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "swiss_pgday_2026_open_for_registration"
-  },
-  {
-    "name": "Swiss PGDay 2026 25–26 June 2026 · Rapperswil, Switzerland The Swiss PostgreSQL Conference. OST Eastern Switzerland University of Applied Sciences …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -196,6 +208,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "swiss_pgday_2026_2526_june_2026__rapperswil_switzerland_the_swiss_postgresql_conference_ost_eastern_switzerland_university_of_applied_sciences"
+    "id": "pgconfbe_2026_will_be_held_in_haasrode_leuven_about_25km_from_brussels_the_conference_will_take_place_on_may_5th"
   }
 ]
