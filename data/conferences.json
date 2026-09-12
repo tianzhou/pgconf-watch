@@ -1,5 +1,26 @@
 [
   {
+    "name": "CERN PGDay 2027: Announcement and CfP",
+    "details": [
+      "Posted on 2026-09-11 by Swiss PostgreSQL Users Group",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "cern_pgday_2027_announcement_and_cfp"
+  },
+  {
+    "name": "CERN PGDay 2027 Date: Friday, February 12, 2027 Location: CERN Campus, Geneva, Switzerland / Suisse Romande Language: English Organizers: Swiss …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "cern_pgday_2027_date_friday_february_12_2027_location_cern_campus_geneva_switzerland__suisse_romande_language_english_organizers_swiss"
+  },
+  {
     "name": "PGConf India 2027 - Dates Announced and CFP Open",
     "details": [],
     "parsed_date": null,
@@ -179,27 +200,6 @@
   {
     "name": "Hey everyone! The PGDay Armenia 2026 schedule is now live, and Early Bird tickets are officially on sale! Join us …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "hey_everyone_the_pgday_armenia_2026_schedule_is_now_live_and_early_bird_tickets_are_officially_on_sale_join_us"
-  },
-  {
-    "name": "PGConf.BE : Preliminary schedule, registrations open and speakers online",
-    "details": [
-      "Posted on 2026-04-17 by UCLL",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfbe__preliminary_schedule_registrations_open_and_speakers_online"
-  },
-  {
-    "name": "PGConf.BE 2026 will be held in Haasrode, Leuven, about 25km from Brussels. The conference will take place on May 5th, …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -208,6 +208,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "pgconfbe_2026_will_be_held_in_haasrode_leuven_about_25km_from_brussels_the_conference_will_take_place_on_may_5th"
+    "id": "hey_everyone_the_pgday_armenia_2026_schedule_is_now_live_and_early_bird_tickets_are_officially_on_sale_join_us"
   }
 ]
