@@ -1,5 +1,26 @@
 [
   {
+    "name": "FOSDEM PGDay 2027: two days of PostgreSQL, with calls for papers and sponsors now open!",
+    "details": [
+      "Posted on 2026-10-18 by PostgreSQL Europe",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "fosdem_pgday_2027_two_days_of_postgresql_with_calls_for_papers_and_sponsors_now_open"
+  },
+  {
+    "name": "Join us for FOSDEM PGDay 2027 on January 28 and 29 at the Brussels Marriott Hotel Grand Place. This year, …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "join_us_for_fosdem_pgday_2027_on_january_28_and_29_at_the_brussels_marriott_hotel_grand_place_this_year"
+  },
+  {
     "name": "CERN PGDay 2027: Announcement and CfP",
     "details": [
       "Posted on 2026-09-11 by Swiss PostgreSQL Users Group",
@@ -179,27 +200,6 @@
   {
     "name": "We are pleased to announce that PostgreSQL Conference Europe 2026 will take place in València, Spain, from October 20–23, 2026. …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "we_are_pleased_to_announce_that_postgresql_conference_europe_2026_will_take_place_in_valència_spain_from_october_2023_2026"
-  },
-  {
-    "name": "PGDay Armenia 2026 Schedule & Registration!",
-    "details": [
-      "Posted on 2026-04-18 by Armenia Postgres User Group",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_armenia_2026_schedule__registration"
-  },
-  {
-    "name": "Hey everyone! The PGDay Armenia 2026 schedule is now live, and Early Bird tickets are officially on sale! Join us …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -208,6 +208,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "hey_everyone_the_pgday_armenia_2026_schedule_is_now_live_and_early_bird_tickets_are_officially_on_sale_join_us"
+    "id": "we_are_pleased_to_announce_that_postgresql_conference_europe_2026_will_take_place_in_valència_spain_from_october_2023_2026"
   }
 ]
