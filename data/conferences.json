@@ -179,27 +179,6 @@
   {
     "name": "Dear PostgreSQL Community, We are pleased to announce that the Call for Papers for PGDay Israel 2026 is now open. …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "dear_postgresql_community_we_are_pleased_to_announce_that_the_call_for_papers_for_pgday_israel_2026_is_now_open"
-  },
-  {
-    "name": "PGConf.EU 2026 Announced – Call for Community Day Event Proposals Now Open",
-    "details": [
-      "Posted on 2026-04-19 by PostgreSQL Europe",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgconfeu_2026_announced__call_for_community_day_event_proposals_now_open"
-  },
-  {
-    "name": "We are pleased to announce that PostgreSQL Conference Europe 2026 will take place in València, Spain, from October 20–23, 2026. …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -208,6 +187,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "we_are_pleased_to_announce_that_postgresql_conference_europe_2026_will_take_place_in_valència_spain_from_october_2023_2026"
+    "id": "dear_postgresql_community_we_are_pleased_to_announce_that_the_call_for_papers_for_pgday_israel_2026_is_now_open"
   }
 ]
