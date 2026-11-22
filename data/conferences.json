@@ -1,5 +1,38 @@
 [
   {
+    "name": "Nordic PGDay 2027 - Call for Papers & Sponsors!",
+    "details": [],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "nordic_pgday_2027_-_call_for_papers__sponsors"
+  },
+  {
+    "name": "Posted on 2026-11-22 by Nordic PGDay",
+    "details": [
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "posted_on_2026-11-22_by_nordic_pgday"
+  },
+  {
+    "name": "We are pleased to announce that the Call for Papers for Nordic PGDay 2027 is now open. The conference will …",
+    "details": [
+      "Read more...",
+      "PostgreSQL@SCaLE24x CfP closing soon on Nov 1, 2027",
+      "Posted on 2026-10-28 by SCaLE Conference",
+      "Community Conferences",
+      "Hi folks! We're hosting a PostgreSQL track at SCaLE again — come join us in sunny Pasadena! PostgreSQL@SCaLE is a …",
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "we_are_pleased_to_announce_that_the_call_for_papers_for_nordic_pgday_2027_is_now_open_the_conference_will"
+  },
+  {
     "name": "FOSDEM PGDay 2027: two days of PostgreSQL, with calls for papers and sponsors now open!",
     "details": [
       "Posted on 2026-10-18 by PostgreSQL Europe",
@@ -158,27 +191,6 @@
   {
     "name": "The Call for Papers for the PGConf.EU 2026 main conference track, as well as the Calls for Presentations for sessions …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "the_call_for_papers_for_the_pgconfeu_2026_main_conference_track_as_well_as_the_calls_for_presentations_for_sessions"
-  },
-  {
-    "name": "PGDay Israel 2026 - Call for Papers is Now Open",
-    "details": [
-      "Posted on 2026-05-21 by Israel PostgreSQL Community",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "pgday_israel_2026_-_call_for_papers_is_now_open"
-  },
-  {
-    "name": "Dear PostgreSQL Community, We are pleased to announce that the Call for Papers for PGDay Israel 2026 is now open. …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -187,6 +199,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "dear_postgresql_community_we_are_pleased_to_announce_that_the_call_for_papers_for_pgday_israel_2026_is_now_open"
+    "id": "the_call_for_papers_for_the_pgconfeu_2026_main_conference_track_as_well_as_the_calls_for_presentations_for_sessions"
   }
 ]
