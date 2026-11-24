@@ -1,5 +1,26 @@
 [
   {
+    "name": "PGConf.dev 2027 Call for Proposals is Open",
+    "details": [
+      "Posted on 2026-11-23 by Slonik Events Canada",
+      "Community Conferences"
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfdev_2027_call_for_proposals_is_open"
+  },
+  {
+    "name": "PGConf.dev 2027 (May 11-14, 2027, Montréal, CA), aka PostgreSQL Developer Conference 2027, is the annual gathering of PostgreSQL community organizers, …",
+    "details": [
+      "Read more..."
+    ],
+    "parsed_date": null,
+    "location": null,
+    "status": null,
+    "id": "pgconfdev_2027_may_11-14_2027_montréal_ca_aka_postgresql_developer_conference_2027_is_the_annual_gathering_of_postgresql_community_organizers"
+  },
+  {
     "name": "Nordic PGDay 2027 - Call for Papers & Sponsors!",
     "details": [],
     "parsed_date": null,
@@ -170,27 +191,6 @@
   {
     "name": "The schedule is now online. New this year: Birds of a Feather (BoF). Registration is moving quickly. Swiss PGDay 2026 …",
     "details": [
-      "Read more..."
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "the_schedule_is_now_online_new_this_year_birds_of_a_feather_bof_registration_is_moving_quickly_swiss_pgday_2026"
-  },
-  {
-    "name": "Calls for Presentations for PGConf.EU 2026 are Open",
-    "details": [
-      "Posted on 2026-05-21 by PostgreSQL Europe",
-      "Community Conferences"
-    ],
-    "parsed_date": null,
-    "location": null,
-    "status": null,
-    "id": "calls_for_presentations_for_pgconfeu_2026_are_open"
-  },
-  {
-    "name": "The Call for Papers for the PGConf.EU 2026 main conference track, as well as the Calls for Presentations for sessions …",
-    "details": [
       "Read more...",
       "Older news...",
       "News articles are either from the PostgreSQL project or contributeed by other related organisations. If you wish to share news",
@@ -199,6 +199,6 @@
     "parsed_date": "related to PostgreSQL, you may submit your own articles for consideration after logging in.",
     "location": null,
     "status": null,
-    "id": "the_call_for_papers_for_the_pgconfeu_2026_main_conference_track_as_well_as_the_calls_for_presentations_for_sessions"
+    "id": "the_schedule_is_now_online_new_this_year_birds_of_a_feather_bof_registration_is_moving_quickly_swiss_pgday_2026"
   }
 ]
